@@ -1,0 +1,10 @@
+[gd_resource type="ShaderMaterial" load_steps=2 format=3 uid="uid://b78ubyu5occea"]
+
+[ext_resource type="Shader" path="res://ManCode.gdshader" id="1_qa5kk"]
+
+[resource]
+shader = ExtResource("1_qa5kk")
+shader_parameter/viewReal = 1.0
+shader_parameter/viewImag = null
+shader_parameter/viewZoom = null
+shader_parameter/viewItter = null
